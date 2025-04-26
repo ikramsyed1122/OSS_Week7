@@ -2,6 +2,9 @@
 
 int main(void)
 {
-printf("Welcome to OSS ");
+int a=7, b=10;
+int sum=0;
+printf(" the sum is: %d", sum);
+
 return 0; 
 }
